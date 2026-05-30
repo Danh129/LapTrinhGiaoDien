@@ -1,0 +1,11 @@
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\bin\Debug\Bai2_TuLam_C7.exe.config
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\bin\Debug\Bai2_TuLam_C7.exe
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\bin\Debug\Bai2_TuLam_C7.pdb
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.csproj.AssemblyReference.cache
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.Form1.resources
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.FrmOption.resources
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.Properties.Resources.resources
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.csproj.GenerateResource.cache
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.csproj.CoreCompileInputs.cache
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.exe
+C:\Bai1_NangCao_GiaoDien\Bai2_TuLam_C7\Bai2_TuLam_C7\obj\Debug\Bai2_TuLam_C7.pdb
