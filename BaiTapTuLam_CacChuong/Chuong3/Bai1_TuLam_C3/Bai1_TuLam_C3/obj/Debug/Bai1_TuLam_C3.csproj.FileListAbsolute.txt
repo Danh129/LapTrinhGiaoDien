@@ -1,0 +1,10 @@
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\bin\Debug\Bai1_TuLam_C3.exe.config
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\bin\Debug\Bai1_TuLam_C3.exe
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\bin\Debug\Bai1_TuLam_C3.pdb
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.csproj.AssemblyReference.cache
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.Form1.resources
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.Properties.Resources.resources
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.csproj.GenerateResource.cache
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.csproj.CoreCompileInputs.cache
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.exe
+C:\Bai1_NangCao_GiaoDien\Bai1_TuLam_C3\Bai1_TuLam_C3\obj\Debug\Bai1_TuLam_C3.pdb
