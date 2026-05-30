@@ -2,7 +2,7 @@
 
 # BÁO CÁO NGHIÊN CỨU VÀ PHÁT TRIỂN HỆ THỐNG GIAO DIỆN NGƯỜI - MÁY (HCI) TRÊN NỀN TẢNG WINDOWS FORMS
 
-## 📝 PROGRAMMING INTERFACE
+## 📝 TÊN ĐỀ TÀI: PROGRAMMING INTERFACE
 
 ## 📝 TÓM TẮT DỰ ÁN (ABSTRACT)
 Dự án này tập trung nghiên cứu, thiết kế và thực nghiệm các giải pháp kiến trúc giao diện người-máy (Human-Computer Interaction - HCI) 
@@ -28,7 +28,7 @@ người dùng (UX).
     * *SimpleCalculator & Mảng Thống kê:* Bộ máy phân tích cú pháp biểu thức toán học dạng chuỗi đơn giản và tối ưu hóa vòng lặp xử lý mảng phần tử số nguyên
 ngẫu nhiên.
 
-* **Code trong BaiTapTuLam_CacChuong/Chuong2**
+* **ĐƯỜNG DẪN:**
     * *BaiTapTuLam_CacChuong/Chuong2/Bai1_TuLam_C2*
     * *BaiTapTuLam_CacChuong/Chuong2/Bai2_TuLam_C2*
     * *BaiTapTuLam_CacChuong/Chuong2/Bai3_TuLam_C2*
@@ -44,7 +44,7 @@ toán học và không gian hình học phẳng trực quan hóa lên GUI.
     * *Lớp Tamgiac & Hinhtron:* Mô hình hóa toán học không gian 2D, tự động tính toán thuộc tính diện tích, chu vi, biên hình học và kiểm tra tọa độ
 điểm động (`Point Inside Circle`).
 
-* **Code trong BaiTapTuLam_CacChuong/Chuong3**
+* **ĐƯỜNG DẪN:**
     * *BaiTapTuLam_CacChuong/Chuong3/Bai1_TuLam_C3*
     * *BaiTapTuLam_CacChuong/Chuong3/Bai2_TuLam_C3*
     * *BaiTapTuLam_CacChuong/Chuong3/Bai3_TuLam_C3*
@@ -61,7 +61,7 @@ hạn `ClientRectangle` của Form.
 ưu tương tác tệp tin và tùy biến giao diện hệ thống.
     * *MyPhoto MDI Application:* Kiến trúc quản lý cây tiến trình Form con chứa tài nguyên ảnh tĩnh.
  
-* **Code trong BaiTapTuLam_CacChuong/Chuong3**
+* **ĐƯỜNG DẪN:**
     * *BaiTapTuLam_CacChuong/Chuong4/Bai1_TuLam_C4*
     * *BaiTapTuLam_CacChuong/Chuong4/Bai2_TuLam_C4*
     * *BaiTapTuLam_CacChuong/Chuong4/Bai4_TuLam_C4*
@@ -75,7 +75,7 @@ phím (`KeyDown`) tác động lên các đối tượng giao diện được kh
     * *Phát triển Game Tâng bóng (Paddle Ball Game):* Tích hợp thanh chắn điều khiển bằng Keyboard/Mouse, tính toán xử lý va chạm cơ học động giữa vật thể
 bóng và thanh chắn.
 
-* **Code trong BaiTapTuLam_CacChuong/Chuong3**
+* **ĐƯỜNG DẪN**
     * *BaiTapTuLam_CacChuong/Chuong5/Bai1_TuLam_C5*    
 
 ### 📁 PHÂN HỆ CHƯƠNG 06: Cấu Trúc Dữ Liệu Phân Cấp & Quản Lý Hệ Thống Tệp Tin (Chương 6)
@@ -87,7 +87,7 @@ cấu trúc tệp tin logic của hệ điều hành Windows.
     * *ListViewDemo:* Tái hiện cấu trúc hiển thị thông tin metadata của tệp tin (File Name, Size, Last Accessed) tương thích các chế độ View khác nhau
 (`LargeIcon`, `SmallIcon`, `Details`).
 
-* **Code trong BaiTapTuLam_CacChuong/Chuong3**
+* **ĐUÒNG DẪN:**
     * *BaiTapTuLam_CacChuong/Chuong6/Bai1_TuLam_C6*
     
 
@@ -102,7 +102,7 @@ thực thể vector đồ họa (`Graphics`, `Pen`, `Brush`, `Rectangle`, `Polyg
     * *DrawShapes Controller:* Ứng dụng vẽ hình học tùy biến hỗ trợ xóa bộ nhớ đệm (`Clear All`) và tùy chọn hộp thoại (`Option Dialog`) điều khiển cấu trúc
 hình học.
 
-* **Code trong BaiTapTuLam_CacChuong/Chuong3**
+* **ĐƯỜNG DẪN:**
     * *BaiTapTuLam_CacChuong/Chuong7/Bai1_TuLam_C7*
     * *BaiTapTuLam_CacChuong/Chuong7/Bai2_TuLam_C7*
 
