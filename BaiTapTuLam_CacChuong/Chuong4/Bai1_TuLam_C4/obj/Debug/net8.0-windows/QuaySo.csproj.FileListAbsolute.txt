@@ -1,0 +1,34 @@
+D:\BTTH C#\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.exe
+D:\BTTH C#\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.deps.json
+D:\BTTH C#\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.runtimeconfig.json
+D:\BTTH C#\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.dll
+D:\BTTH C#\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.pdb
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.Form1.resources
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.csproj.GenerateResource.cache
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.AssemblyInfoInputs.cache
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.AssemblyInfo.cs
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.csproj.CoreCompileInputs.cache
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.dll
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\refint\QuaySo.dll
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.pdb
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.genruntimeconfig.cache
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\ref\QuaySo.dll
+D:\BTTH C#\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.Properties.Resources.resources
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.exe
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.deps.json
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.runtimeconfig.json
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.dll
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\bin\Debug\net8.0-windows\QuaySo.pdb
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.Form1.resources
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.Properties.Resources.resources
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.csproj.GenerateResource.cache
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.AssemblyInfoInputs.cache
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.AssemblyInfo.cs
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.csproj.CoreCompileInputs.cache
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.dll
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\refint\QuaySo.dll
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.pdb
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\QuaySo.genruntimeconfig.cache
+C:\Users\letha\Downloads\CHƯƠNG 4\QuaySo\obj\Debug\net8.0-windows\ref\QuaySo.dll
