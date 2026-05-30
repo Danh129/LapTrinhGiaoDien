@@ -1,0 +1,11 @@
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\bin\Debug\Bai8_NangCao.exe.config
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\bin\Debug\Bai8_NangCao.exe
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\bin\Debug\Bai8_NangCao.pdb
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.csproj.AssemblyReference.cache
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.Form1.resources
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.Properties.Resources.resources
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.csproj.GenerateResource.cache
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.csproj.CoreCompileInputs.cache
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.exe
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.pdb
+C:\Bai1_NangCao_GiaoDien\Bai8_NangCao\Bai8_NangCao\obj\Debug\Bai8_NangCao.FrmUpdate.resources
